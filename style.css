@@ -1,0 +1,67 @@
+
+#Titulo{
+    
+    color:black;
+    
+}
+#bod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    
+}
+
+h2{
+    color: grey;
+}
+
+#img{
+    
+    height: 250px;
+    width: 200px;
+    justify-content: center;
+}
+li{
+    color: green;
+}
+#tabla{
+color: grey;
+}
+a{
+    color: blue;
+}
+
+#mas{
+    color: black;
+}
+#correo
+{
+    color: red;
+}
+#telefono
+{
+    color:red;
+}
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  #co{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: crimson;
+  }
+  .center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
